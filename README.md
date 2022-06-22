@@ -1,1 +1,2 @@
-# python_study
+# python_study   
+### 2022.06.22 부터 시작하는 파이썬 수업   
